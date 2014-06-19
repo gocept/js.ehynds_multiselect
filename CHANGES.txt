@@ -1,7 +1,7 @@
 CHANGES
 *******
 
-1.13 (unreleased)
+1.13 (2014-06-19)
 =================
 
 - Initial release.
